@@ -9,8 +9,3 @@ hello git and atguigu  123456489
 hello git and atguigu  9999
 hello git and atguigu
 hello git and atguigu
-hello git and atguigu
-hello git and atguigu
-hello git and atguigu master test
-hello git and atguigu fox-fix test
-1231213
